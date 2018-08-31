@@ -1,6 +1,5 @@
 # jiub
-experimental ai project
+
 g++ *.cpp -std=c++11 -pthread -lpthread -o run
 
-So far this project is mostly debug code and I/O framework for the decision maker in the ai.  
-See images for diagrams.
+Started out thinking I'd build an AI, then discovered deep reinforcement learning and switched to python... so just keeping this here as an experiment with some C++ stuff that was new to me.
